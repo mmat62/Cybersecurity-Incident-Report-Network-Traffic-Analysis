@@ -2,6 +2,8 @@
 
 Analyse network traffic, provide a summary of the problem found in the tcpdump log, explain your analysis of the data and provide at least one cause of the incident.
 
+### tcpdump
+
 ![image](https://raw.githubusercontent.com/mmat62/Cybersecurity-Incident-Report-Network-Traffic-Analysis/refs/heads/main/tcpdump-log-screenshot.png)
 
 ## Part 1: Problem found in the tcpdump log
